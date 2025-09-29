@@ -30,3 +30,4 @@ def sqrt_long_division(n):
 
 n=input("enter a number :")
 print(sqrt_long_division(n)) 
+#devansh
